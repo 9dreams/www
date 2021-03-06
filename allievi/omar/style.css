@@ -1,0 +1,49 @@
+.immagini{
+    border: blue;
+}
+.testo{
+    color:white;
+}
+.testino{
+    color: #373636;
+}
+.cosolo{
+
+    border: #e70505;
+    border-style: solid;
+    border-bottom-width: 3px;
+}
+.cosolo1{
+    border: #0b20d2;
+    border-style: solid;
+    border-bottom-width: 3px;
+}
+.cosolo2{
+    border: #0a0a0a;
+    border-style: solid;
+    border-bottom-width: 3px;
+
+}
+.cosolo3{
+    border: #11e3c8;
+    border-style: solid;
+    border-bottom-width: 3px;
+}
+.cosolo4{
+    border: #d2be0c;
+    border-style: solid;
+    border-bottom-width: 3px;
+}
+.cosolo5{
+    border: #5d0694;
+    border-style: solid;
+    border-bottom-width: 3px;
+}
+.cosolo6{
+    border: #4c98bc;
+    border-style: solid;
+    border-bottom-width: 3px;
+}
+.body{
+    align-items: center;
+}
