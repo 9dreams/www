@@ -1,0 +1,61 @@
+
+
+#containertexto{
+    background-color: #c4c4c4;
+    width: 700px;
+    padding: 20px;
+}
+
+input[type="button"]{
+    width: 100%;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+form {
+    display: table;
+    margin: 0 auto;
+}
+
+form div{
+    display: table-row;
+}
+
+form label, form input{
+    display: table-cell;
+    margin-bottom: 10px;
+    font-size: 1.3rem;
+    font-family: "Britannic Bold";
+}
+
+h4{
+    font-family: "Britannic Bold";
+}
+
+
+form label {
+    width: 400px;
+    padding-right: 5%;
+    text-align: left;
+}
+
+form input{
+    width: 300px;
+}
+
+
+form select{
+    width: 300px;
+}
+
+form p{
+    display: table-caption;
+    caption-side: bottom;
+    width: 300px;
+    font-style: italic;
+    font-size: 1.1rem;
+
+}
+
